@@ -1,0 +1,92 @@
+{
+  "networks": [
+    {
+      "network": {
+        "name": "Netflix",
+        "tvseries": [
+          {
+            "name": "Black Mirror",
+            "date": "04 Dec 2011",
+            "country": "US",
+            "genres": [
+              "Drama",
+              "Sci-Fi",
+              "Thriller"
+            ]
+          },
+          {
+            "name": "Squid Game",
+            "date": "17 Sep 2021",
+            "country": "US",
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ]
+          },
+          {
+            "name": "The Witcher",
+            "date": "20 Dec 2019",
+            "country": "US",
+            "genres": [
+              "Action",
+              "Drama",
+              "Fantasy"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "network": {
+        "name": "Hulu",
+        "tvseries": [
+          {
+            "name": "11.22.63",
+            "date": "16 Feb 2016",
+            "country": "US",
+            "genres": [
+              "Drama",
+              "Sci-Fi",
+              "Mystery"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "network": {
+        "name": "Antena 3",
+        "tvseries": [
+          {
+            "name": "La Casa de Papel",
+            "date": "02 May 2017",
+            "country": "US",
+            "genres": [
+              "Action",
+              "Thriller",
+              "Crime"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "network": {
+        "name": "BBC Two",
+        "tvseries": [
+          {
+            "name": "Peaky Blinders",
+            "date": "12 Sep 2013",
+            "country": "UK",
+            "genres": [
+              "Drama",
+              "Crime",
+              "History"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
