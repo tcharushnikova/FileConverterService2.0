@@ -1,10 +1,10 @@
 package converter;
 
+import fileio.readers.JsonReader;
 import fileio.writers.TxtWriter;
+import fileio.writers.XmlWriter;
 import model.Network;
 import model.Show;
-import fileio.readers.JsonReader;
-import fileio.writers.XmlWriter;
 
 import java.io.File;
 import java.util.ArrayList;
